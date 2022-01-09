@@ -42,6 +42,6 @@ Thumbs.db
 /node_modules/
 
 # Extras
-img/
-png/
-jpg/
+*.img/
+*.png/
+*.jpg/
